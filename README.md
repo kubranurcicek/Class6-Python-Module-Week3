@@ -5,11 +5,11 @@
 ## FUNCTIONS ASSIGNMENT
 
 ### 1. QUESTION 1
-i. Write a function called int_return that takes an integer as input and returns
+* i. Write a function called int_return that takes an integer as input and returns
 the same integer.
-ii. Write a function called add that takes any number as its input and returns
+* ii. Write a function called add that takes any number as its input and returns
 that sum with 2 added.
-iii. Write a function called greet that takes any name (string), and greets the
+* iii. Write a function called greet that takes any name (string), and greets the
 person. E.g. “Hello Bob! Nice to meet you!” (Only returns the greeting string,
 printing is done in the main program.)
 iv. Write a function, accum, that takes a list of integers as input and returns the
