@@ -59,3 +59,9 @@ numbers and call sum_of_numbers with those arguments and prints the result.
 * iii. Write the same function sum_of_numbers to calculate the sum of numbers but
 this time it takes a list of integers as an argument and calculates the sum of the
 integers in the list. Invoke the function in the main program.
+
+## Bonus Question 1
+[HACKERRANK: FIND DIGITS](https://www.hackerrank.com/challenges/find-digits/problem)
+
+## Bonus Question 2
+[HACKERRANK: CAPITALIZE](https://www.hackerrank.com/challenges/capitalize/problem)
