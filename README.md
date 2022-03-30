@@ -54,7 +54,7 @@ Make sure to print the results.
 * i. Write a recursive function sum_of_numbers to calculate the sum of
 numbers within a given range that takes start and end as parameters. The
 function should work whether start is less or greater than end.
-* ii. Write a function called input to ask the user to enter the starting and ending
+* ii. Write a function called input_function  to ask the user to enter the starting and ending
 numbers and call sum_of_numbers with those arguments and prints the result.
 * iii. Write the same function sum_of_numbers to calculate the sum of numbers but
 this time it takes a list of integers as an argument and calculates the sum of the
